@@ -68,4 +68,5 @@ namespace BethanysPieShop.Models
         [ScaffoldColumn(false)]
         public DateTime OrderPlaced { get; set; }
     }
+
 }
